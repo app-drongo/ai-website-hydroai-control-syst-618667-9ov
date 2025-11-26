@@ -1,0 +1,7 @@
+export { default as Pageheader } from './Pageheader'
+export { default as Tabs } from './Tabs'
+export { default as Comparison } from './Comparison'
+export { default as Integrations } from './Integrations'
+export { default as Download } from './Download'
+export { default as Faq } from './Faq'
+export { default as Contact } from './Contact'
