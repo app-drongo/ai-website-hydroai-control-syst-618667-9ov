@@ -19,7 +19,7 @@ const DEFAULT_TABS = {
       id: 'sensors',
       label: 'Field Layer',
       title: 'Sensors & Actuators',
-      description: 'Real-time environmental and fertigation monitoring',
+      description: 'Real-Time environmental and fertigation monitoring',
       icon: 'thermometer',
       metrics: [
         { name: 'Air Temperature', value: '24.2°C', status: 'optimal', progress: 75 },
