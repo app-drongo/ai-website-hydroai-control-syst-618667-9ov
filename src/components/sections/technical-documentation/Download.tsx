@@ -3,7 +3,7 @@
 import { Button } from '@/components/ui/button';
 import { Card, CardContent } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
-import { Download, FileText, Code, Database, Shield, CheckCircle } from 'lucide-react';
+import { Download as DownloadIcon, FileText, Code, Database, Shield, CheckCircle } from 'lucide-react';
 import { useState } from 'react';
 
 const DEFAULT_DOWNLOAD = {
