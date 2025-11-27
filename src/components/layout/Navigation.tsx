@@ -8,7 +8,7 @@ import { useSmartNavigation } from '@/hooks/useSmartNavigation';
 
 const DEFAULT_NAVIGATION = {
   brandName: 'HydroAI Control',
-  brandTagline: 'Autonomous AI-Driven Hydroponic Control Systems',
+  brandTagline: 'Autonomous AII-Driven Hydroponic Control Systems',
   navItems: [
     { label: 'Home', href: '/', icon: 'Home' },
     { label: 'System Overview', href: '#hero', icon: 'Cpu' },
